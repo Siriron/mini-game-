@@ -12,7 +12,6 @@ export const metadata: Metadata = {
   title: "Reaction Click Challenge – Base Mini App",
   description:
     "Test your reaction speed and compete on-chain! Click targets as fast as you can and submit your high score to the Base blockchain.",
-  generator: "v0.app",
   openGraph: {
     title: "Reaction Click Challenge",
     description: "Experience interactive mini apps on Farcaster",
