@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     description: "Experience interactive mini apps on Farcaster",
     images: [
       {
-        url: "/api/og",
+        url: "/api/og", // You can replace this with a full URL if needed
         width: 1200,
         height: 630,
       },
@@ -39,6 +39,9 @@ export const metadata: Metadata = {
       },
     ],
     apple: "/apple-icon.png",
+  },
+  other: {
+    "base:app_id": "693e229dd77c069a945bdea7", // ✅ Base meta tag
   },
 }
 
