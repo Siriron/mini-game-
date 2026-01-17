@@ -1,118 +1,30 @@
-Reaction Click Challenge – Base Mini App
+# Reaction Click Challenge
 
-A fast‑paced reaction game built as a Farcaster Mini App, deployed on Vercel, and designed to run seamlessly in modern web environments.
+*Automatically synced with your [v0.app](https://v0.app) deployments*
 
-Test your reaction speed by clicking targets as quickly as possible and compete for high scores. The app is lightweight, responsive, and optimized for social discovery.
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sirironhearts-projects/v0-mini-game)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/kstM0XueIbH)
 
+## Overview
 
----
+This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
+Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
 
-🚀 Live Demo
+## Deployment
 
-Deployed on Vercel. You can open the app directly from its deployment URL.
+Your project is live at:
 
+**[https://vercel.com/sirironhearts-projects/v0-mini-game](https://vercel.com/sirironhearts-projects/v0-mini-game)**
 
----
+## Build your app
 
-✨ Features
+Continue building your app on:
 
-⚡ Reaction‑based click challenge game
+**[https://v0.app/chat/kstM0XueIbH](https://v0.app/chat/kstM0XueIbH)**
 
-🧠 Simple, intuitive gameplay
+## How It Works
 
-🌐 Farcaster Mini App metadata support
-
-📱 Mobile‑friendly and responsive UI
-
-📊 Vercel Analytics integration
-
-🖼️ Dynamic Open Graph preview (/api/og)
-
-
-
----
-
-🛠️ Tech Stack
-
-Next.js (App Router)
-
-TypeScript
-
-React
-
-Vercel (hosting & analytics)
-
-Farcaster Mini App metadata
-
-
-
----
-
-📂 Project Structure
-
-app/            # App Router pages & layout
-components/     # Reusable UI components
-public/         # Icons and static assets
-styles/         # Global styles
-
-
----
-
-🧩 Farcaster Integration
-
-The app includes Farcaster Mini App metadata:
-
-fc:miniapp support
-
-fc:frame compatibility
-
-Optimized Open Graph previews for social sharing
-
-
-
----
-
-🧑‍💻 Development
-
-Clone the repository and install dependencies:
-
-git clone <your-repo-url>
-cd <repo-name>
-npm install
-
-Run locally:
-
-npm run dev
-
-Build for production:
-
-npm run build
-
-
----
-
-🚀 Deployment
-
-This project is deployed on Vercel.
-
-Any push to the main branch will automatically trigger a new production deployment.
-
-
----
-
-
-📄 License
-
-MIT License
-
-
----
-
-📌 Notes
-
-This project was customized and extended after initial scaffolding and is intended as a foundation for future Base / Farcaster mini‑app experiments.
-
-
----
-
-Feel free to fork, explore, and build on top of it.
+1. Create and modify your project using [v0.app](https://v0.app)
+2. Deploy your chats from the v0 interface
+3. Changes are automatically pushed to this repository
+4. Vercel deploys the latest version from this repository

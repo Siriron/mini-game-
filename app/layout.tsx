@@ -12,12 +12,13 @@ export const metadata: Metadata = {
   title: "Reaction Click Challenge – Base Mini App",
   description:
     "Test your reaction speed and compete on-chain! Click targets as fast as you can and submit your high score to the Base blockchain.",
+  generator: "v0.app",
   openGraph: {
     title: "Reaction Click Challenge",
     description: "Experience interactive mini apps on Farcaster",
     images: [
       {
-        url: "/api/og", // You can replace this with a full URL if needed
+        url: "/api/og",
         width: 1200,
         height: 630,
       },
@@ -39,9 +40,6 @@ export const metadata: Metadata = {
       },
     ],
     apple: "/apple-icon.png",
-  },
-  other: {
-    "base:app_id": "693e229dd77c069a945bdea7", // ✅ Base meta tag
   },
 }
 
